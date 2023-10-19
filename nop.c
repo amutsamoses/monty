@@ -1,7 +1,9 @@
 #include  "monty.h"
 
 /*
- * f_nop - doesn’t do anything
+ * f_nop - The nop opcode  doesn’t do anything.
+ *
+ *
  * @head: the head of the stack
  * @counter: counts the line_number
  *

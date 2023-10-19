@@ -2,7 +2,6 @@
 
 /**
   *f_rotl- rotates the stack to the top
-
   *@head: head of the stack
   *@counter: counts line_number
   *Return: nothing
