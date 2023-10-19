@@ -56,3 +56,11 @@ In order to remove the element (dequeue) from the queue, we need to check whethe
 
 Implementation of Queue in C
 Queues in C can be implemented using Arrays, Lists, Structures
+
+Terminologies:
+
+Push opcode:- Pushes the element to stack
+pall opcode:- prints all the values on the stack starting from the top of the stack
+pint opcode:- prints the value at the top of the stack, followed by a new line
+pop opcode:- remove the top elements of the stack
+swap opcodes:- swap the top two elements of the stac
